@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2 {
+  text-align: center;
+  color: green;
+}
+
+p {
+  font-size: 16px;
+  text-align: center;
+}
+
+li {
+  font-weight: bold;
+  color: blue;
+  }
